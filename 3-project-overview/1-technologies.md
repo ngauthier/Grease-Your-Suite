@@ -1,10 +1,11 @@
 !SLIDE 
 # Technologies
-## PostgreSQL
+## Rails
 
 !SLIDE
 # Technologies
 ## Factory Girl
+
 !SLIDE 
 # Technologies
 ## Shoulda
@@ -23,10 +24,9 @@
 
 !SLIDE
 # Test Machine
-### Quad Core @ **2.40GHz**
-### **4GB** Memory
-### 64-bit Linux
-### 320GB **7200RPM** SATA HD
+### **2.40GHz** Quad Core
+### **4GB** RAM
+### **7200RPM** Hard Drive
 
 !SLIDE
 # "Vanilla" Test Suite

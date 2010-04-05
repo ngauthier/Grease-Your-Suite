@@ -17,7 +17,7 @@
         runners: 4
       - type: ssh
         connect: user@example.com
-        directory: /absolute/path/to/rails
+        directory: /absolute/path/to/project
         runners: 4
     sync:
       directory: /my/local/project/dir

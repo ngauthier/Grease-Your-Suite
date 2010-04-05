@@ -10,9 +10,3 @@
 # Ruby Enterprise Edition
 ![results.png](results.png)
 
-!SLIDE
-# Can we do better?
-
-!SLIDE 
-# Of course!
-
