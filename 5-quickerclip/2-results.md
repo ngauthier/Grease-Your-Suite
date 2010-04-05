@@ -2,12 +2,12 @@
 # Results?
 
 !SLIDE
-# Fast Context
-## **05:32**
-### 2.39x Faster
+# Quickerclip
+## **03:34**
+### 1.55x Faster
 
 !SLIDE center
-# Fast Context
+# Quickerclip
 ![results.png](results.png)
 
 !SLIDE
@@ -15,3 +15,4 @@
 
 !SLIDE 
 # Of course!
+
