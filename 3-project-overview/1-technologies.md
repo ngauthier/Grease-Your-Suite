@@ -1,3 +1,6 @@
+!SLIDE
+# The "Project"
+
 !SLIDE 
 # Technologies
 ## Rails
