@@ -3,4 +3,4 @@
 ### Nick Gauthier
 ### SmartLogic Solutions
 
-Slides online at http://grease-your-suite.heroku.com
+[Slides live @ Heroku](http://grease-your-suite.heroku.com)
