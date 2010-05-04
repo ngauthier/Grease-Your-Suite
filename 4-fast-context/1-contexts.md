@@ -24,3 +24,7 @@
       assert_equal 'John Doe', @user.full_name
       assert_equal 30, @user.age
     end
+
+!SLIDE
+# Caveat
+## May change your coverage

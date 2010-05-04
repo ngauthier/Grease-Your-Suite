@@ -4,4 +4,3 @@
 ### Nick Gauthier
 ### SmartLogic Solutions
 
-
