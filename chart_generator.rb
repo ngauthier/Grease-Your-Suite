@@ -5,8 +5,7 @@ fast_context = 332
 quickerclip = 214
 hydra = 86
 fs_tweaks = 50
-ree = 25
-dist = 18
+ree = 18
 
 charts << {
   :file => File.join('4-fast-context', 'results.png'),
@@ -32,11 +31,6 @@ charts << {
   :file => File.join('8-ree', 'results.png'),
   :data => [vanilla, fast_context, quickerclip, hydra, fs_tweaks, ree],
   :legend => ['Vanilla', 'Fast Context', 'Quickerclip', 'Hydra', 'FS Tweaks', 'REE']
-}
-charts << {
-  :file => File.join('10-distributed-hydra', 'results.png'),
-  :data => [vanilla, fast_context, quickerclip, hydra, fs_tweaks, ree, dist],
-  :legend => ['Vanilla', 'Fast Context', 'Quickerclip', 'Hydra', 'FS Tweaks', 'REE', 'Hydra x2']
 }
 
 charts.each do |c|

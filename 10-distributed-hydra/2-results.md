@@ -4,17 +4,19 @@
 !SLIDE
 # Hydra Distributed
 ## **00:18**
-### 1.39x Faster
+### 1.00x Faster
 
-!SLIDE center
-# Hydra Distributed
-![results.png](results.png)
+!SLIDE
+# Overhead
 
-!SLIDE bullets incremental
-# Speedup
-* 4416%
-* 13:15 = 36 runs / 8h
-* 00:18 = 1600 runs / 8h
+!SLIDE
+# Other Project
+## Not concurrent
+
+!SLIDE
+# Other Project
+### 1 machine: 8:47
+### 2 machines: 5:33
 
 !SLIDE
 # Can **you** do better?

@@ -3,8 +3,8 @@
 
 !SLIDE
 # Ruby Enterprise Edition
-## **00:25**
-### 2.00x Faster
+## **00:18**
+### 2.77x Faster
 
 !SLIDE center
 # Ruby Enterprise Edition

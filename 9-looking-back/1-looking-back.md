@@ -1,8 +1,8 @@
 !SLIDE bullets incremental
 # Looking Back
-* 13:15 => 00:25
-* 31.8x
-* 3180% speedup
+* 13:15 => 00:18
+* 44.17x
+* 4417% speedup
 
 !SLIDE
 # Looking Back
@@ -15,7 +15,7 @@
 
 !SLIDE
 # Looking Back
-## What if you earned 3180% more?
+## What if you earned 4417% more?
 
 !SLIDE
 # Macbook Pro

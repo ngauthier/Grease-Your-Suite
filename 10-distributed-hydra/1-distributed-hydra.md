@@ -32,7 +32,3 @@
     rake hydra:db:reset 
     # runs local and remote
 
-!SLIDE
-# Extra Server
-## 3.4ghz Quad-Core
-### < $500

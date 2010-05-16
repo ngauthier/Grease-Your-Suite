@@ -7,12 +7,3 @@ h2 {
   color: #64c8ca;
   font-size: 3.5em;
 }
-
-.slide .center {
-  height: 740px;
-  width: 1020px;
-  display: table-cell;
-  text-align: center;
-  vertical-align: middle;
-}
-
