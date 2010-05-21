@@ -12,17 +12,36 @@
 
 !SLIDE bullets
 # Existing solutions
-* parallel_specs
+* parallel_tests
 * tickle
 * deep-test
+* specjour
 
 !SLIDE
-# tickle and parallel_specs
+# tickle, parallel_tests, specjour
 ## pre-group files
 
 !SLIDE
-# tickle and parallel_specs
+# tickle, parallel_tests, specjour
 ## cores get out of balance
+
+!SLIDE
+# tickle
+## Test::Unit
+
+!SLIDE
+# parallel_tests
+## Local only
+## Multiple databases
+
+!SLIDE
+# specjour
+## RSpec
+
+!SLIDE
+# specjour
+## Bonjour for networking = LAN (or tunnel)
+## Need to run daemon
 
 !SLIDE bullets
 # deep-test
@@ -41,22 +60,51 @@
 * Cucumber
 * RSpec
 
-!SLIDE bullets
+!SLIDE 
 # Hydra
-* Pipes
-* SSH
-* => simple setup
+## Pipes (local)
+
+!SLIDE 
+# Hydra
+## SSH & Rsync (remote)
+
+!SLIDE 
+# Hydra
+## Simple Setup
+
+!SLIDE 
+# Hydra
+## deadlock retry
+
+!SLIDE 
+# Hydra
+## load balancing
+
+!SLIDE 
+# Hydra
+## test AI
+
+!SLIDE 
+# Hydra
+## framework-wide ruby-prof
 
 !SLIDE
 # Usage: Rakefile
     @@@ ruby
-    require 'hydra'
-    require 'hydra/tasks'
-
     Hydra::TestTask.new('hydra') do |t|
       t.add_files 'test/unit/**/*_test.rb'
       t.add_files 'test/functional/**/*_test.rb'
       t.add_files 'test/integration/**/*_test.rb'
+    end
+
+!SLIDE
+# Test::Unit + Cucumber
+    @@@ruby
+    Hydra::TestTask.new('hydra') do |t|
+      t.add_files 'test/unit/**/*_test.rb'
+      t.add_files 'test/functional/**/*_test.rb'
+      t.add_files 'test/integration/**/*_test.rb'
+      t.add_files 'features/**/*.feature'
     end
 
 !SLIDE

@@ -56,5 +56,6 @@
 * => instant "ramdisk" setup
 
 !SLIDE
-# No improvement over SSD
+# As fast as an SSD
 ### However SSDs make "first loads" faster
+
