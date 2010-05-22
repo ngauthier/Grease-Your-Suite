@@ -86,7 +86,7 @@
 
 !SLIDE 
 # Hydra
-## framework-wide ruby-prof
+## cross-framework ruby-prof
 
 !SLIDE
 # Usage: Rakefile

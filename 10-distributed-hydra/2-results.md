@@ -17,6 +17,7 @@
 # Other Project
 ### 1 machine: 8:47
 ### 2 machines: 5:33
+### 1.58x Faster
 
 !SLIDE
 # Can **you** do better?
