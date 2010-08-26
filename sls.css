@@ -13,3 +13,7 @@ h2 {
   background-repeat: no-repeat;
   background-position: right bottom;
 }
+
+a, a:hover, a:visited {
+  color: #64c8ca;
+}

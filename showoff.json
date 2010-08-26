@@ -1,14 +1,16 @@
-[ 
-  {"section":"1-intro"},
-  {"section":"2-motive"},
-  {"section":"3-project-overview"},
-  {"section":"4-fast-context"},
-  {"section":"5-quickerclip"},
-  {"section":"6-hydra"},
-  {"section":"7-fs-tweaks"},
-  {"section":"8-ree"},
-  {"section":"9-looking-back"},
-  {"section":"10-distributed-hydra"},
-  {"section":"11-bohconf"},
-  {"section":"12-finish"}
-]
+{ 
+  "name": "Grease Your Suite",
+  "sections": [
+    {"section":"1-intro"},
+    {"section":"2-motive"},
+    {"section":"3-project-overview"},
+    {"section":"4-fast-context"},
+    {"section":"5-quickerclip"},
+    {"section":"6-hydra"},
+    {"section":"7-fs-tweaks"},
+    {"section":"8-ree"},
+    {"section":"9-looking-back"},
+    {"section":"10-distributed-hydra"},
+    {"section":"11-finish"}
+  ]
+}

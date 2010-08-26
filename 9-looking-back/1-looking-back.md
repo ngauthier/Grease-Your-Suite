@@ -11,7 +11,6 @@
 !SLIDE
 # Looking Back
 ## No change to test coverage
-### except fast_context (maybe)
 
 !SLIDE
 # Looking Back

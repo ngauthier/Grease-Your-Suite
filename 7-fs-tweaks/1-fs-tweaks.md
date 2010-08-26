@@ -53,7 +53,14 @@
 # Data is not flushed
 * Stays in paged memory
 * Flushed when convenient
-* => instant "ramdisk" setup
+
+!SLIDE
+# As fast as a ramdisk
+### (I tried it)
+
+!SLIDE
+# As fast as an SSD
+### (I tried it)
 
 !SLIDE
 # As fast as an SSD

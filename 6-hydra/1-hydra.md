@@ -49,10 +49,11 @@
 * Multiple Databases
 * Remote daemons
 * => Difficult setup
+* (Very powerful)
 
 !SLIDE center
 ![Hydra Logo](hydra.png)
-## http://www.github.com/ngauthier/hydra
+## [http://www.github.com/ngauthier/hydra](http://www.github.com/ngauthier/hydra)
 
 !SLIDE bullets
 # Hydra
@@ -120,14 +121,6 @@
 * Cucumber: 2 environment loads
 * RSpec: 1 environment load
 * Hydra: 1 environment load (for all frameworks)
-
-!SLIDE bullets incremental
-# Environment loading
-## Simple Test::Unit project with:
-* 1 unit test
-* 1 functional test
-* 1 integration test
-* = 14s => 4s with Hydra
 
 !SLIDE
 # Workers are forked
