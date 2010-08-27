@@ -64,49 +64,23 @@
 
 !SLIDE 
 # Hydra
-## Pipes (local)
+## active balancing
 
 !SLIDE 
 # Hydra
-## SSH & Rsync (remote)
-
-!SLIDE 
-# Hydra
-## Simple Setup
-
-!SLIDE 
-# Hydra
-## deadlock retry
-
-!SLIDE 
-# Hydra
-## load balancing
-
-!SLIDE 
-# Hydra
-## test AI
-
-!SLIDE 
-# Hydra
-## cross-framework ruby-prof
+## simple setup
+### (no sockets or daemons)
 
 !SLIDE
-# Usage: Rakefile
-    @@@ ruby
-    Hydra::TestTask.new('hydra') do |t|
-      t.add_files 'test/unit/**/*_test.rb'
-      t.add_files 'test/functional/**/*_test.rb'
-      t.add_files 'test/integration/**/*_test.rb'
-    end
-
-!SLIDE
-# Test::Unit + Cucumber
+# Usage in Rakefile
     @@@ruby
     Hydra::TestTask.new('hydra') do |t|
       t.add_files 'test/unit/**/*_test.rb'
       t.add_files 'test/functional/**/*_test.rb'
       t.add_files 'test/integration/**/*_test.rb'
       t.add_files 'features/**/*.feature'
+      t.add_files 'spec/**/*_spec.rb'
+      t.add_files 'public/javascripts/**/*.js'
     end
 
 !SLIDE

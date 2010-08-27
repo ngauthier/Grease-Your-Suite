@@ -25,10 +25,3 @@
         - tmp
         - log
 
-!SLIDE
-# Hydra Global Tasks
-    @@@ ruby
-    Hydra::GlobalTask.new('db:reset')
-    rake hydra:db:reset 
-    # runs local and remote
-

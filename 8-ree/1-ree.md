@@ -6,10 +6,6 @@
 # RVM
 ### [http://rvm.beginrescueend.com/](http://rvm.beginrescueend.com/)
 
-!SLIDE bullets incremental
-# Install
-### [http://rvm.beginrescueend.com/rvm/install/](http://rvm.beginrescueend.com/rvm/install/)
-
 !SLIDE
 # tcmalloc
 ### [http://code.google.com/p/google-perftools/wiki/GooglePerformanceTools](http://code.google.com/p/google-perftools/wiki/GooglePerformanceTools)

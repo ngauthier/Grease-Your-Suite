@@ -22,10 +22,6 @@
 ## "EmptyDB" Testing
 
 !SLIDE
-# "Intense" Tests
-## Paperclip + Factory Girl = Hard Work!
-
-!SLIDE
 # Test Machine
 ### **2.40GHz** Quad Core
 ### **4GB** RAM
