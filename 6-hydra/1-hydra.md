@@ -60,6 +60,7 @@
 * Test::Unit
 * Cucumber
 * RSpec
+* JSLint
 
 !SLIDE 
 # Hydra
