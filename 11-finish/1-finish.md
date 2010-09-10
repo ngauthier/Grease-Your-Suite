@@ -7,6 +7,7 @@
 ### [http://smartlogicsolutions/nick](http://www.smartlogicsolutions/nick)
 ### [http://twitter.com/ngauthier](http://www.twitter.com/ngauthier)
 ### [http://github.com/ngauthier](http://www.github.com/ngauthier)
+### [http://spkr8.com/ngauthier](http://spkr8.com/ngauthier)
 ### Slides:
 ### [http://grease-your-suite.heroku.com](http://grease-your-suite.heroku.com)
 
@@ -19,5 +20,6 @@
 ### [http://smartlogicsolutions/nick](http://www.smartlogicsolutions/nick)
 ### [http://twitter.com/ngauthier](http://www.twitter.com/ngauthier)
 ### [http://github.com/ngauthier](http://www.github.com/ngauthier)
+### [http://spkr8.com/ngauthier](http://spkr8.com/ngauthier)
 ### Slides:
 ### [http://grease-your-suite.heroku.com](http://grease-your-suite.heroku.com)
